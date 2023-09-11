@@ -1,6 +1,6 @@
 User Data Management Application
 
-Table of Contents
+CRUD of Users
 -----------------
 - Introduction
 - Features
